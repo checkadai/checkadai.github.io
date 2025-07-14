@@ -1,0 +1,11 @@
+---
+title: "Loan Risk Classifier"
+format: html
+---
+
+# A Machine Learning Project: Classifying Loan Risk
+
+You can view the full code on GitHub:  
+👉 [smart-loan-risk-classifier](https://github.com/checkadai/smart-loan-risk-classifier)
+
+This project uses Lending Club data and Python to predict loan risk.

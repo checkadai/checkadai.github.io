@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "Welcome to My Portfolio\nThis is a collection of my machine learning projects."
+  },
+  {
+    "objectID": "loan-classifier.html",
+    "href": "loan-classifier.html",
+    "title": "Loan Risk Classifier",
+    "section": "",
+    "text": "A Machine Learning Project: Classifying Loan Risk\nYou can view the full code on GitHub:\n👉 smart-loan-risk-classifier\nThis project uses Lending Club data and Python to predict loan risk."
+  }
+]

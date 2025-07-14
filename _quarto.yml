@@ -1,0 +1,17 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Checkadai Portfolio"
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Loan Classifier"
+        href: loan-classifier.qmd
+
+format:
+  html:
+    theme: cosmo
+    toc: true
